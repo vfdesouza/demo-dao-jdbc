@@ -3,5 +3,5 @@
 
 ### Tópicos: 
 #### - Lógica de programação: entrada e saída de dados, condicinais e loops;
-#### - POO: classes, encapsulamento, construtores, hashCode e Equals, ToString (Object / overriding), Serializable;
+#### - POO: classes, interfaces, encapsulamento, construtores, hashCode e Equals, ToString (Object / overriding), Serializable;
 #### - JDBC: java.sql
